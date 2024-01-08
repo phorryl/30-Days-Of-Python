@@ -1,5 +1,5 @@
 # 🐍 30 Days Of Python
-# testing forking cloning
+
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
